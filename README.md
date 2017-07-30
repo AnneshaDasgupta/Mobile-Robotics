@@ -1,0 +1,2 @@
+# Mobile-Robotics
+In this project I developed a mobile-controlled robot using DTMF or Dual Tone Multiple Frequency. The robot is controlled by a cellphone that makes a call to a second phone connected to the bot. Pressing keys on the my Android (MotorolaG series) phone will send instructions to the robot via DTMF signals. The robot is programmed to decode these signals and change directions accordingly.
